@@ -9,6 +9,8 @@ clear
 sudo wget https://raw.githubusercontent.com/costantino03/linux-mysql/master/apache2.sh
 
 clear
+sudo wget https://raw.githubusercontent.com/costantino03/linux-mysql/master/samba.sh
+clear
 
 chmod 775 data.sh
 
@@ -17,6 +19,8 @@ chmod 775 remove.sh
 chmod 775 java.sh
 
 chmod 775 apache2.sh
+
+chmod 775 samba.sh
 
 ./remove.sh
 
@@ -27,6 +31,10 @@ clear
 clear
 
 ./apache2.sh
+
+clear
+
+./samba.sh
 
 clear
 
