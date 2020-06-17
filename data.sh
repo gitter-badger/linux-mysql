@@ -13,6 +13,8 @@ clear
 sudo wget https://raw.githubusercontent.com/costantino03/linux-mysql/master/samba.sh
 
 clear
+sudo wget https://raw.githubusercontent.com/costantino03/linux-mysql/master/certbot.sh
+clear
 
 chmod 775 data.sh
 
@@ -23,6 +25,8 @@ chmod 775 java.sh
 chmod 775 apache2.sh
 
 chmod 775 samba.sh
+
+chmod 775 certbot.sh
 
 ./remove.sh
 
