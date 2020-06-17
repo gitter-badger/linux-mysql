@@ -44,6 +44,10 @@ clear
 
 clear
 
+./certbot.sh
+
+clear
+
 sudo apt-get update -y
 
 sudo apt-get upgrade -y
