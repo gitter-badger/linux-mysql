@@ -18,9 +18,9 @@ sudo wget https://raw.githubusercontent.com/costantino03/linux-mysql/master/cert
 
 clear
 
-#sudo wget https://raw.githubusercontent.com/costantino03/linux-mysql/master/sinus.sh
+sudo wget https://raw.githubusercontent.com/costantino03/linux-mysql/master/ssh.sh
 
-#clear
+clear
 
 chmod 775 data.sh
 
@@ -34,7 +34,7 @@ chmod 775 samba.sh
 
 chmod 775 certbot.sh
 
-# chmod 775 sinus.sh
+chmod 775 ssh.sh
 
 ./remove.sh
 
@@ -56,9 +56,9 @@ clear
 
 clear
 
-# ./sinus.sh
+./ssh.sh
 
-# clear
+clear
 
 sudo apt-get update -y
 
