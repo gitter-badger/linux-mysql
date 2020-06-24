@@ -22,6 +22,10 @@ sudo wget https://raw.githubusercontent.com/costantino03/linux-mysql/master/ssh.
 
 clear
 
+sudo wget https://raw.githubusercontent.com/costantino03/linux-mysql/master/node.sh
+
+clear
+
 chmod 775 data.sh
 
 chmod 775 remove.sh
@@ -35,6 +39,8 @@ chmod 775 samba.sh
 chmod 775 certbot.sh
 
 chmod 775 ssh.sh
+
+chmod 775 node.sh
 
 ./remove.sh
 
@@ -57,6 +63,10 @@ clear
 clear
 
 ./ssh.sh
+
+clear
+
+./node.sh
 
 clear
 
