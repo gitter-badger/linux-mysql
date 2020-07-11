@@ -1,3 +1,7 @@
+sudo apt-get update -y && sudo apt-get upgrade -y
+
+clear
+
 sudo wget https://raw.githubusercontent.com/costantino03/linux-mysql/master/apache2.sh
 
 sudo wget https://raw.githubusercontent.com/costantino03/linux-mysql/master/node.sh
