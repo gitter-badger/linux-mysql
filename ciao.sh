@@ -1,5 +1,3 @@
-git clone https://github.com/costantino03/we
-
 cp CONTRIBUTING.md we/CONTRIBUTING.md
 
 cp COPYRIGHT we/COPYRIGHT
