@@ -1,3 +1,4 @@
+#main script
 sudo wget https://raw.githubusercontent.com/costantino03/linux-mysql/master/java.sh
 
 clear
